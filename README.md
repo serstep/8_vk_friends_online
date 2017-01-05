@@ -1,6 +1,10 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+Script for checking are your vk friends online.
+
+##Using 
+  
+    $python3 vk_friends_online.py 
 
 # Project Goals
 
