@@ -28,9 +28,9 @@ def get_online_friends(login, password):
 
 
 def output_friends_to_console(friends_online):
-
+    print("Your friends online:")
     for friend in friends_online:
-        print("Yor friends online:\nid: {uid}\nfirst name: {first_name}\nlast name: {last_name}\n".\
+        print("id: {uid}\nfirst name: {first_name}\nlast name: {last_name}\n".\
             format(**friend))
 
 
@@ -43,5 +43,6 @@ if __name__ == '__main__':
     except vk.exceptions.VkAuthError :
         print("The username and/or password you specified are not correct.")
         exit(1)
+
 
     output_friends_to_console(friends_online)
