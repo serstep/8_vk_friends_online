@@ -15,8 +15,11 @@ Script for checking are your vk friends online.
 The script will will ask your username  and password. In several seconds you wiil get output like this:
 
 Yor friends online:
+
 id: 340541407
+
 first name: Игорь
+
 last name: Попов
 
 Yor friends online:
