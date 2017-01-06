@@ -4,11 +4,7 @@ Script for checking who of your vk friends is online.
 
 ##Using 
 
-Use console to run next commands.
-  
-###Installing vk package
-
-    $pip3 install vk
+Use console to run script
     
 ###Running vk_friends_online
   
