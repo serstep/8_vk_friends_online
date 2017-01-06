@@ -12,7 +12,7 @@ Use console to run next commands.
     
 ###Running vk_friends_online
   
-Type next command in directory with script. 
+Type next command in directory containing script. 
   
     $python3 vk_friends_online.py
     
