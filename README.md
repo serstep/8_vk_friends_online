@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-Script for checking are your vk friends online.
+Script for checking who of your vk friends is online.
 
 ##Using 
   
