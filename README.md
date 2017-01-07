@@ -8,7 +8,7 @@ Use console to run script
 
 ###Installing 
 
-To install package vk, use next command:
+To install dependences, use next command:
 
         pip install -r requirements.txt
     
