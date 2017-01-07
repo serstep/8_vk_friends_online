@@ -5,6 +5,12 @@ Script for checking who of your vk friends is online.
 ##Using 
 
 Use console to run script
+
+###Installing 
+
+To install package vk, use next command:
+
+        pip install -r requirements.txt
     
 ###Running vk_friends_online
   
